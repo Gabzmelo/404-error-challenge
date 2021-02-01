@@ -9,11 +9,11 @@
 
 <div align="center">
   <h3>
-    <a href="(https://404notfoundchallenge.netlify.app/)">
+    <a href="https://404notfoundchallenge.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/XnxFpmZr8zkAQbrrZUK8">
       Solution
     </a>
     <span> | </span>
